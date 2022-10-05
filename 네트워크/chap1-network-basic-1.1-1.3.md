@@ -57,7 +57,9 @@
 - TCP/IP 참조 모델
 - OSI 참조 모델
 
-![Layers](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48824f35-0652-4201-8a0b-f804d6709d08/Untitled.png)
+<p align="center">
+<img width="533" alt="image" src="https://user-images.githubusercontent.com/99185757/193998072-57a1ce86-fb24-4d27-9584-f7e30e81bd83.png">
+</p>
 
 ### TCP/IP 참조 모델
 
