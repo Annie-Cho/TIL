@@ -10,4 +10,5 @@
 * [MVC 패턴](https://github.com/Annie-Cho/TIL/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%B5%ED%95%99/mvc%ED%8C%A8%ED%84%B4.md)
 
 ## Node
+* [REST API](https://github.com/Annie-Cho/TIL/blob/master/node/restapi.md#rest-api)
 * [TypeScript](https://github.com/Annie-Cho/TIL/blob/master/node/typescript.md)
