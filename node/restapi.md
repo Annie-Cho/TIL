@@ -95,3 +95,8 @@ GET : /users/{userId}/devices
 ```text
 GET : /users/{userId}/likes/devices
 ```
+
+## 참고 
+- https://meetup.toast.com/posts/92
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+- https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-URL-URI-%EC%B0%A8%EC%9D%B4
