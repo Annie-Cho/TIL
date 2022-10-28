@@ -10,27 +10,17 @@
 ## 📌 REST의 구성 요소
 
 - 자원(Resource) => URI(Uniform Resource Identifier)
-- 행위(Verb) => HTTP Methods(Get, Post, Put, delete etc...)
+- 행위(Verb) => [HTTP Methods]()
 - 표현(Representations)
 
 ### URI와 URL
+
 - `URI(Uniform Resource Identifier)` : Identifier, 식별자 라는 단어에서 볼 수 있듯이 인터넷에 있는 자원을 나타내는 유일한 주소이다.
 - `URL(Uniform Resource Locator)` : Locator, 위치탐지기 라는 단어에서 볼 수 있듯이 네트워크 상에서 자원의 위치를 알려주는 규약이다.
 - URI와 URL의 차이점
   - https://en.dict.naver.com/#/search?query=hello&range=all 이와 같은 주소가 있을 때,
   - URL : https://en.dict.naver.com/#/search => 말 그대로 자원의 위치를 알려준다. 참고로 URI이기도 하다.
   - URI : https://en.dict.naver.com/#/search?query=hello&range=all => 자원의 식별자로써 query와 range값을 이용하여 자원을 식별한다. URL은 될 수 없다.
-
-### HTTP Methods
-- `GET` : 리소스 조회하기. 리소스를 조회하고 해당 도큐먼트에 대한 자세한 정보를 가져온다.
-- `POST` : 리소스 생성하기.
-- `PUT` : 리소스 전체 수정하기.
-- `DELETE` : 리소스 삭제하기.
-- `HEAD` : 리소스의 정보 조회하기. body없이 header부분만 응답 받는다.
-- `OPTIONS` : 웹 서버 측이 제공 가능한 메소드에 대한 문의. 서버 측에서 GET, POST, HEAD 등과 같이 허용된 메소드들을 보내준다. ex) Allow: GET, POST, HEAD
-- `PATCH` : 리소스 부분적으로 수정하기.
-
-=> PUT으로 요청하였을 경우, 리소스의 전체 항목을 수정하므로 빈 항목들은 빈 상태로 들어가게되지만 patch로 요청하였을 경우 요청된 부분적으로만 수정하므로 다른 항목들의 데이터를 유지할 수 있다.
 
 <br>
 
@@ -96,7 +86,8 @@ GET : /users/{userId}/devices
 GET : /users/{userId}/likes/devices
 ```
 
-## 참고 
+## 참고
+
 - https://meetup.toast.com/posts/92
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 - https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-URL-URI-%EC%B0%A8%EC%9D%B4
