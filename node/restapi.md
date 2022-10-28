@@ -10,7 +10,7 @@
 ## 📌 REST의 구성 요소
 
 - 자원(Resource) => URI(Uniform Resource Identifier)
-- 행위(Verb) => [HTTP Methods]()
+- 행위(Verb) => [HTTP Methods](https://github.com/Annie-Cho/TIL/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP.md#%EC%9A%94%EC%B2%AD-%EB%A9%94%EC%86%8C%EB%93%9Crequest-method)
 - 표현(Representations)
 
 ### URI와 URL
