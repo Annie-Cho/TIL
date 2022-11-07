@@ -13,7 +13,7 @@
 ## Node
 * [Node.js](https://github.com/Annie-Cho/TIL/blob/master/node/node.js.md#nodejs)
 * [REST API](https://github.com/Annie-Cho/TIL/blob/master/node/restapi.md#rest-api)
-* [TypeScript](https://github.com/Annie-Cho/TIL/blob/master/node/typescript.md)
+* [TypeScript](https://github.com/Annie-Cho/TIL/blob/master/node/typescript.md#typescript)
 
 ## 네트워크
 * [HTTP](https://github.com/Annie-Cho/TIL/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP.md#httphypertext-transfer-protocol)
