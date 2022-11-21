@@ -22,5 +22,5 @@
 * [HTTP](https://github.com/Annie-Cho/TIL/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP.md#httphypertext-transfer-protocol)
 
 ## 기타
-* [로그인 방식(2가지)](https://github.com/Annie-Cho/TIL/blob/master/node/login-method.md)
-* [쿠키와 세션](https://github.com/Annie-Cho/TIL/blob/master/node/cookie-and-session.md)
+* [로그인 방식(2가지)](https://github.com/Annie-Cho/TIL/blob/master/%EA%B8%B0%ED%83%80/login-method.md)
+* [쿠키와 세션](https://github.com/Annie-Cho/TIL/blob/master/%EA%B8%B0%ED%83%80/cookie-and-session.md)
